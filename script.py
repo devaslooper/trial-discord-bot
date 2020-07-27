@@ -3,7 +3,7 @@ import json
 import os
 key = os.getenv('YT')
 hook = os.getenv('DC')
-channel_id = "UC3XTzVzaHQEd30rQbuvCtTQ"
+channel_id = "UCBJycsmduvYEL83R_U4JriQ"
 request = requests.get(f"https://www.googleapis.com/youtube/v3/search?key={key}&part=snippet&channelId={channel_id}&order=date&maxResults=1")
 data = request.json()
 with open("YT.json","r") as io:
