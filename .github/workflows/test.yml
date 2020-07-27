@@ -40,6 +40,6 @@ jobs:
         push-branch: 'master'
         commit-message: 'publish'
         force-add: 'true'
-        files: YTAgamJsonData.json
+        files: YT.json
         name: Github actions
         email: mukskashyap.de@gmail.com
