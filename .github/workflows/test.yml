@@ -38,8 +38,8 @@ jobs:
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         push-branch: 'master'
-        commit-message: 'publish'
+        commit-message: 'update YT.json'
         force-add: 'true'
         files: YT.json
-        name: Github actions
+        name: Github Actions
         email: mukskashyap.de@gmail.com
