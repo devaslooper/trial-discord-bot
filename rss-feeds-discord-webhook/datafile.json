@@ -1,0 +1,196 @@
+{
+    "Python Insider": {
+        "id": "tag:blogger.com,1999:blog-3941553907430899163.post-2688998032255106261",
+        "guidislink": true,
+        "link": "http://feedproxy.google.com/~r/PythonInsider/~3/9YDLIBncL3E/python-35-is-no-longer-supported.html",
+        "published": "2020-10-02T13:55:00.008-04:00",
+        "published_parsed": [
+            2020,
+            10,
+            2,
+            17,
+            55,
+            0,
+            4,
+            276,
+            0
+        ],
+        "updated": "2020-10-02T13:55:59.794-04:00",
+        "updated_parsed": [
+            2020,
+            10,
+            2,
+            17,
+            55,
+            59,
+            4,
+            276,
+            0
+        ],
+        "title": "Python 3.5 is no longer supported",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://feeds.feedburner.com/PythonInsider",
+            "value": "Python 3.5 is no longer supported"
+        },
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "https://feeds.feedburner.com/PythonInsider",
+                "value": "<p>Python 3.5 is no longer supported.&nbsp; There will be no more bug fixes or security patches for the 3.5 series, and&nbsp;<a href=\"https://www.python.org/downloads/release/python-3510/\">Python 3.5.10</a>&nbsp;is the last release.&nbsp; The Python core development community recommends that all remaining Python 3.5 users should upgrade to the latest version.</p><div class=\"feedflare\">\n<a href=\"http://feeds.feedburner.com/~ff/PythonInsider?a=9YDLIBncL3E:xNFVOW_xorA:yIl2AUoC8zA\"><img src=\"http://feeds.feedburner.com/~ff/PythonInsider?d=yIl2AUoC8zA\" border=\"0\"></img></a> <a href=\"http://feeds.feedburner.com/~ff/PythonInsider?a=9YDLIBncL3E:xNFVOW_xorA:-BTjWOF_DHI\"><img src=\"http://feeds.feedburner.com/~ff/PythonInsider?i=9YDLIBncL3E:xNFVOW_xorA:-BTjWOF_DHI\" border=\"0\"></img></a> <a href=\"http://feeds.feedburner.com/~ff/PythonInsider?a=9YDLIBncL3E:xNFVOW_xorA:F7zBnMyn0Lo\"><img src=\"http://feeds.feedburner.com/~ff/PythonInsider?i=9YDLIBncL3E:xNFVOW_xorA:F7zBnMyn0Lo\" border=\"0\"></img></a> <a href=\"http://feeds.feedburner.com/~ff/PythonInsider?a=9YDLIBncL3E:xNFVOW_xorA:V_sGLiPBpWU\"><img src=\"http://feeds.feedburner.com/~ff/PythonInsider?i=9YDLIBncL3E:xNFVOW_xorA:V_sGLiPBpWU\" border=\"0\"></img></a> <a href=\"http://feeds.feedburner.com/~ff/PythonInsider?a=9YDLIBncL3E:xNFVOW_xorA:qj6IDK7rITs\"><img src=\"http://feeds.feedburner.com/~ff/PythonInsider?d=qj6IDK7rITs\" border=\"0\"></img></a>\n</div><img src=\"http://feeds.feedburner.com/~r/PythonInsider/~4/9YDLIBncL3E\" height=\"1\" width=\"1\" alt=\"\"/>"
+            }
+        ],
+        "summary": "<p>Python 3.5 is no longer supported.&nbsp; There will be no more bug fixes or security patches for the 3.5 series, and&nbsp;<a href=\"https://www.python.org/downloads/release/python-3510/\">Python 3.5.10</a>&nbsp;is the last release.&nbsp; The Python core development community recommends that all remaining Python 3.5 users should upgrade to the latest version.</p><div class=\"feedflare\">\n<a href=\"http://feeds.feedburner.com/~ff/PythonInsider?a=9YDLIBncL3E:xNFVOW_xorA:yIl2AUoC8zA\"><img src=\"http://feeds.feedburner.com/~ff/PythonInsider?d=yIl2AUoC8zA\" border=\"0\"></img></a> <a href=\"http://feeds.feedburner.com/~ff/PythonInsider?a=9YDLIBncL3E:xNFVOW_xorA:-BTjWOF_DHI\"><img src=\"http://feeds.feedburner.com/~ff/PythonInsider?i=9YDLIBncL3E:xNFVOW_xorA:-BTjWOF_DHI\" border=\"0\"></img></a> <a href=\"http://feeds.feedburner.com/~ff/PythonInsider?a=9YDLIBncL3E:xNFVOW_xorA:F7zBnMyn0Lo\"><img src=\"http://feeds.feedburner.com/~ff/PythonInsider?i=9YDLIBncL3E:xNFVOW_xorA:F7zBnMyn0Lo\" border=\"0\"></img></a> <a href=\"http://feeds.feedburner.com/~ff/PythonInsider?a=9YDLIBncL3E:xNFVOW_xorA:V_sGLiPBpWU\"><img src=\"http://feeds.feedburner.com/~ff/PythonInsider?i=9YDLIBncL3E:xNFVOW_xorA:V_sGLiPBpWU\" border=\"0\"></img></a> <a href=\"http://feeds.feedburner.com/~ff/PythonInsider?a=9YDLIBncL3E:xNFVOW_xorA:qj6IDK7rITs\"><img src=\"http://feeds.feedburner.com/~ff/PythonInsider?d=qj6IDK7rITs\" border=\"0\"></img></a>\n</div><img src=\"http://feeds.feedburner.com/~r/PythonInsider/~4/9YDLIBncL3E\" height=\"1\" width=\"1\" alt=\"\"/>",
+        "links": [
+            {
+                "rel": "edit",
+                "type": "application/atom+xml",
+                "href": "https://www.blogger.com/feeds/3941553907430899163/posts/default/2688998032255106261"
+            },
+            {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://www.blogger.com/feeds/3941553907430899163/posts/default/2688998032255106261"
+            },
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "http://feedproxy.google.com/~r/PythonInsider/~3/9YDLIBncL3E/python-35-is-no-longer-supported.html",
+                "title": "Python 3.5 is no longer supported"
+            }
+        ],
+        "authors": [
+            {
+                "name": "Larry Hastings",
+                "href": "http://www.blogger.com/profile/13232068831778121461",
+                "email": "noreply@blogger.com"
+            }
+        ],
+        "author_detail": {
+            "name": "Larry Hastings",
+            "href": "http://www.blogger.com/profile/13232068831778121461",
+            "email": "noreply@blogger.com"
+        },
+        "href": "http://www.blogger.com/profile/13232068831778121461",
+        "author": "Larry Hastings (noreply@blogger.com)",
+        "gd_image": {
+            "rel": "http://schemas.google.com/g/2005#thumbnail",
+            "width": "16",
+            "height": "16",
+            "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+        },
+        "feedburner_origlink": "https://pythoninsider.blogspot.com/2020/10/python-35-is-no-longer-supported.html"
+    },
+    "TUBAF": {
+        "title": "Kleine Helfer f\u00fcr die Metallgewinnung: Bakterien beim Recycling von Elektroschrott einsetzen",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://tu-freiberg.de/",
+            "value": "Kleine Helfer f\u00fcr die Metallgewinnung: Bakterien beim Recycling von Elektroschrott einsetzen"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://tu-freiberg.de/presse/kleine-helfer-fuer-die-metallgewinnung-bakterien-beim-recycling-von-elektroschrott-einsetzen"
+            }
+        ],
+        "link": "https://tu-freiberg.de/presse/kleine-helfer-fuer-die-metallgewinnung-bakterien-beim-recycling-von-elektroschrott-einsetzen",
+        "summary": "<div style=\"float: left; margin-right: 0.5em; margin-top: 1em;\"><img src=\"https://tu-freiberg.de/sites/default/files/imagecache/news-thumbnail/media/Presse/p9250484.jpg\" alt=\"Leiterplatte aus einem Elektroschrott-Teil in der w\u00e4ssrigen Lauge. \" title=\"Leiterplatte aus einem Elektroschrott-Teil in der w\u00e4ssrigen Lauge. Foto: TU Bergakademie Freiberg\" width=\"117\" height=\"70\" class=\"imagecache imagecache-news-thumbnail imagecache-default imagecache-news-thumbnail_default\" /></div><div style=\"font-weight: bold;\">Biohydrometallurgen der TU Bergakademie Freiberg haben erstmals nachgewiesen, dass die Laugung mit Hilfe von Bakterien auch beim Recycling von Elektroschrott zur Trennung der Bauteile eingesetzt werden kann.</div><p>Seine Forschungsergebnisse zur Gewinnung von Metallen publizierte das Team um Professor Michael Schl\u00f6mann nun in der aktuellen Ausgabe der <a href=\"https://www.mdpi.com/2313-4321/5/3/22\" target=\"_blank\" title=\"Biodismantling\">Zeitschrift MDPI / Recycling</a>.</p><p>Ein ausgedienter Computerchip liegt in einer w\u00e4ssrigen Lauge im Reagenzglas. Zun\u00e4chst passiert fast drei Wochen lang nicht sehr viel am Versuchsstand von Benjamin Monneron im Labor der Arbeitsgruppe Umweltmikrobiologie der TU Bergakademie Freiberg. Doch dann fallen die einzelnen Bauteile von der Leiterplatte ab und sinken im Reagenzglas zu Boden als Benjamin Monneron daran r\u00fcttelt. Der Doktorand hat das alte Elektronikteil vor 20 Tagen in eine w\u00e4ssrige Lauge gelegt, die mit dem Mikroorganismus Acidithiobacillus ferrooxidans versehen ist.</p><p>Das mit blo\u00dfem Auge nicht sichtbare Bakterium hat die F\u00e4higkeit, das L\u00f6tzinn durch Oxidation des hinzugef\u00fcgten Eisens aufzul\u00f6sen. \u00dcbrig bleibt die Leiterplatte selbst, die typischerweise Kupfer und Gold enth\u00e4lt, sowie diejenigen Komponenten, die mit dem L\u00f6tzinn an der Platine befestigt waren \u2013 zum Beispiel Dioden, Kondensatoren oder Widerst\u00e4nde. \u201eGenau in diesen Komponenten stecken kleine Mengen strategisch wichtiger Metalle, wie Tantal, Ruthenium, Gallium oder Dysprosium\u201c, erkl\u00e4rt Benjamin Monneron. Die Dioden, Kondensatoren oder Widerst\u00e4nde k\u00f6nnen nun durch Sortierung voneinander getrennt und dann weiterbehandelt werden. Und selbst aus der Lauge mit dem gel\u00f6sten L\u00f6tzinn k\u00f6nnen in weiteren Schritten neben dem Zinn m\u00f6glicherweise auch Kupfer und Silber zur Wiederverwendung gewonnen werden. \u201eBiodismantling\u201c nennt der Doktorand den umweltfreundlichen Prozess des Abl\u00f6sens der Komponenten von der Leiterplatte mit Hilfe der Bakterien.</p><p><strong>Potenzial f\u00fcr Recycling von Seltenen Erden</strong></p><p><strong></strong>Aus jeder einzelnen Komponente k\u00f6nnen nun die jeweils enthaltenen Metalle mit spezifischen Methoden f\u00fcr das Recycling aufbereitet werden, sei es \u00fcber eine Laugung und Solvent-Extraktion oder \u00fcber ein pyrometallurgisches Verfahren. \u201eDer entscheidende Vorteil liegt darin, dass durch die Sortierung nach Typen von Bauteilen die darin enthaltenen seltenen Elemente sehr stark angereichert werden\u201c, erkl\u00e4rt Prof. Michael Schl\u00f6mann, der die Doktorarbeit von Benjamin Monneron am Institut f\u00fcr Biowissenschaften der TU Bergakademie Freiberg betreut. \u201eBesonders interessant ist die neue Methode f\u00fcr die Seltenen Erden, die bei bisher entwickelten Recyclingprozessen in der Regel nicht aufbereitet werden k\u00f6nnen\u201c, so der Biohydrometallurgie-Experte. So ergaben die Analysen von Benjamin Monneron, dass das Dysprosium durch ein Biodismantling mit nachfolgender Sortierung um den Faktor 140 angereichert werden k\u00f6nnte. \u201eDamit erreicht man dann Konzentrationen, die denen der Lagerst\u00e4tten, aus denen das Dysprosium \u00fcblicherweise kommt, entsprechen oder die sogar dar\u00fcber liegen\u201c, so Benjamin Monneron.</p><p><a href=\"/sites/default/files/media/Presse/p9250502.jpg\" title=\"Die Leiterplatte vor (rechts) und nach dem Biodismantling (links). Foto: TU Bergakademie Freiberg\"><img src=\"https://tu-freiberg.de/sites/default/files/resize/media/Presse/p9250502-192x144.jpg\" alt=\"Die Leiterplatte vor (rechts) und nach dem Biodismantling (links). Foto: TU Bergakademie Freiberg\" title=\"Die Leiterplatte vor (rechts) und nach dem Biodismantling (links). Foto: TU Bergakademie Freiberg\" style=\"margin-bottom: 10px; float: left; margin-right: 15px;\" class=\"caption\" width=\"192\" height=\"144\" /></a>Bei herk\u00f6mmlichen Prozessen, die derzeit in Forschung und Entwicklung zum Elektronikschrott-Recycling getestet werden, wird die gesamte Leiterplatte geschreddert und chemisch gelaugt oder thermisch behandelt. Nur die hoch konzentrierten Metalle k\u00f6nnen am Ende wiedergewonnen werden. \u201cKommen die Elemente in geringer Konzentration vor, ist das nur durch komplexe Verfahren und mit extrem hohem Energieaufwand m\u00f6glich\u201c, erkl\u00e4rt Prof. Michael Schl\u00f6mann.</p><p>Weil die Trennung der Komponenten beim neuen Biodismantling-Prozess hingegen am Anfang steht, k\u00f6nnen die Bauteile separat behandelt und die entsprechenden Elemente dem Stoffkreislauf idealerweise wieder als Sekund\u00e4rrohstoffe zur Verf\u00fcgung gestellt werden. \u201eBis dahin sind allerdings noch weitere Forschungsarbeiten n\u00f6tig, denn die mechanische Sortierung der mittels der Biolaugung gewonnenen Komponenten m\u00fcssen wir in Zusammenarbeit mit Spezialist/innen f\u00fcr die Aufbereitung erst noch entwickeln\u201c, so Professor Schl\u00f6mann. Finden die Freiberger Wissenschaftler/innen einen Weg, die Komponenten nach der Biolaugung schnell und einfach zu sortieren, ergibt sich bisher unerreichtes Potenzial f\u00fcr das Recycling von strategisch wichtigen Metallen aus Elektroschrott.</p><p><strong>Hintergrund: Biohydrometallurgische Forschung an der TU Freiberg</strong></p><p>Biohydrometallurgische Verfahren gelten als Alternative zu pyrometallurgischen Verfahren. Die Freiberger Biohydrometallurgen behandeln die Erze mit bestimmten Bakterien und bringen so die enthaltenen Metalle in L\u00f6sung (sogenannte Laugung). Aus der w\u00e4ssrigen L\u00f6sung werden die Metalle dann durch organische Molek\u00fcle herausgeholt (sogenannte Solvent-Extraktion) und schlie\u00dflich durch Elektrowinning auf einer Kathode als Element abgeschieden. Ein biohydrometallurgisches Verfahren ist typischerweise auf die extrem schwer l\u00f6slichen Metallsulfide ausgerichtet, die durch Mikroorganismen zu den entsprechenden gut l\u00f6slichen Sulfaten oxidiert werden. 10 bis 15 Prozent des Kupfers weltweit werden heute bereits auf diese Weise gewonnen. An der TU Bergakademie Freiberg erproben die Wissenschaftler/innen seit 2013 als einziges Forschungsteam an einer deutschen Universit\u00e4t die biohydrometallurgische Prozesskette insbesondere am Beispiel der Elemente Indium und Zink aus der Lagerst\u00e4tte P\u00f6hla im Erzgebirge, aber auch in der Reichen Zeche in Freiberg. Die daf\u00fcr notwendige Versuchsanlage steht in den Freiberger Laboren und wurde von der Dr.-Erich-Kr\u00fcger-Stiftung im Rahmen des Freiberger Biohydrometallurgischen Zentrums gef\u00f6rdert.</p>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://tu-freiberg.de/",
+            "value": "<div style=\"float: left; margin-right: 0.5em; margin-top: 1em;\"><img src=\"https://tu-freiberg.de/sites/default/files/imagecache/news-thumbnail/media/Presse/p9250484.jpg\" alt=\"Leiterplatte aus einem Elektroschrott-Teil in der w\u00e4ssrigen Lauge. \" title=\"Leiterplatte aus einem Elektroschrott-Teil in der w\u00e4ssrigen Lauge. Foto: TU Bergakademie Freiberg\" width=\"117\" height=\"70\" class=\"imagecache imagecache-news-thumbnail imagecache-default imagecache-news-thumbnail_default\" /></div><div style=\"font-weight: bold;\">Biohydrometallurgen der TU Bergakademie Freiberg haben erstmals nachgewiesen, dass die Laugung mit Hilfe von Bakterien auch beim Recycling von Elektroschrott zur Trennung der Bauteile eingesetzt werden kann.</div><p>Seine Forschungsergebnisse zur Gewinnung von Metallen publizierte das Team um Professor Michael Schl\u00f6mann nun in der aktuellen Ausgabe der <a href=\"https://www.mdpi.com/2313-4321/5/3/22\" target=\"_blank\" title=\"Biodismantling\">Zeitschrift MDPI / Recycling</a>.</p><p>Ein ausgedienter Computerchip liegt in einer w\u00e4ssrigen Lauge im Reagenzglas. Zun\u00e4chst passiert fast drei Wochen lang nicht sehr viel am Versuchsstand von Benjamin Monneron im Labor der Arbeitsgruppe Umweltmikrobiologie der TU Bergakademie Freiberg. Doch dann fallen die einzelnen Bauteile von der Leiterplatte ab und sinken im Reagenzglas zu Boden als Benjamin Monneron daran r\u00fcttelt. Der Doktorand hat das alte Elektronikteil vor 20 Tagen in eine w\u00e4ssrige Lauge gelegt, die mit dem Mikroorganismus Acidithiobacillus ferrooxidans versehen ist.</p><p>Das mit blo\u00dfem Auge nicht sichtbare Bakterium hat die F\u00e4higkeit, das L\u00f6tzinn durch Oxidation des hinzugef\u00fcgten Eisens aufzul\u00f6sen. \u00dcbrig bleibt die Leiterplatte selbst, die typischerweise Kupfer und Gold enth\u00e4lt, sowie diejenigen Komponenten, die mit dem L\u00f6tzinn an der Platine befestigt waren \u2013 zum Beispiel Dioden, Kondensatoren oder Widerst\u00e4nde. \u201eGenau in diesen Komponenten stecken kleine Mengen strategisch wichtiger Metalle, wie Tantal, Ruthenium, Gallium oder Dysprosium\u201c, erkl\u00e4rt Benjamin Monneron. Die Dioden, Kondensatoren oder Widerst\u00e4nde k\u00f6nnen nun durch Sortierung voneinander getrennt und dann weiterbehandelt werden. Und selbst aus der Lauge mit dem gel\u00f6sten L\u00f6tzinn k\u00f6nnen in weiteren Schritten neben dem Zinn m\u00f6glicherweise auch Kupfer und Silber zur Wiederverwendung gewonnen werden. \u201eBiodismantling\u201c nennt der Doktorand den umweltfreundlichen Prozess des Abl\u00f6sens der Komponenten von der Leiterplatte mit Hilfe der Bakterien.</p><p><strong>Potenzial f\u00fcr Recycling von Seltenen Erden</strong></p><p><strong></strong>Aus jeder einzelnen Komponente k\u00f6nnen nun die jeweils enthaltenen Metalle mit spezifischen Methoden f\u00fcr das Recycling aufbereitet werden, sei es \u00fcber eine Laugung und Solvent-Extraktion oder \u00fcber ein pyrometallurgisches Verfahren. \u201eDer entscheidende Vorteil liegt darin, dass durch die Sortierung nach Typen von Bauteilen die darin enthaltenen seltenen Elemente sehr stark angereichert werden\u201c, erkl\u00e4rt Prof. Michael Schl\u00f6mann, der die Doktorarbeit von Benjamin Monneron am Institut f\u00fcr Biowissenschaften der TU Bergakademie Freiberg betreut. \u201eBesonders interessant ist die neue Methode f\u00fcr die Seltenen Erden, die bei bisher entwickelten Recyclingprozessen in der Regel nicht aufbereitet werden k\u00f6nnen\u201c, so der Biohydrometallurgie-Experte. So ergaben die Analysen von Benjamin Monneron, dass das Dysprosium durch ein Biodismantling mit nachfolgender Sortierung um den Faktor 140 angereichert werden k\u00f6nnte. \u201eDamit erreicht man dann Konzentrationen, die denen der Lagerst\u00e4tten, aus denen das Dysprosium \u00fcblicherweise kommt, entsprechen oder die sogar dar\u00fcber liegen\u201c, so Benjamin Monneron.</p><p><a href=\"/sites/default/files/media/Presse/p9250502.jpg\" title=\"Die Leiterplatte vor (rechts) und nach dem Biodismantling (links). Foto: TU Bergakademie Freiberg\"><img src=\"https://tu-freiberg.de/sites/default/files/resize/media/Presse/p9250502-192x144.jpg\" alt=\"Die Leiterplatte vor (rechts) und nach dem Biodismantling (links). Foto: TU Bergakademie Freiberg\" title=\"Die Leiterplatte vor (rechts) und nach dem Biodismantling (links). Foto: TU Bergakademie Freiberg\" style=\"margin-bottom: 10px; float: left; margin-right: 15px;\" class=\"caption\" width=\"192\" height=\"144\" /></a>Bei herk\u00f6mmlichen Prozessen, die derzeit in Forschung und Entwicklung zum Elektronikschrott-Recycling getestet werden, wird die gesamte Leiterplatte geschreddert und chemisch gelaugt oder thermisch behandelt. Nur die hoch konzentrierten Metalle k\u00f6nnen am Ende wiedergewonnen werden. \u201cKommen die Elemente in geringer Konzentration vor, ist das nur durch komplexe Verfahren und mit extrem hohem Energieaufwand m\u00f6glich\u201c, erkl\u00e4rt Prof. Michael Schl\u00f6mann.</p><p>Weil die Trennung der Komponenten beim neuen Biodismantling-Prozess hingegen am Anfang steht, k\u00f6nnen die Bauteile separat behandelt und die entsprechenden Elemente dem Stoffkreislauf idealerweise wieder als Sekund\u00e4rrohstoffe zur Verf\u00fcgung gestellt werden. \u201eBis dahin sind allerdings noch weitere Forschungsarbeiten n\u00f6tig, denn die mechanische Sortierung der mittels der Biolaugung gewonnenen Komponenten m\u00fcssen wir in Zusammenarbeit mit Spezialist/innen f\u00fcr die Aufbereitung erst noch entwickeln\u201c, so Professor Schl\u00f6mann. Finden die Freiberger Wissenschaftler/innen einen Weg, die Komponenten nach der Biolaugung schnell und einfach zu sortieren, ergibt sich bisher unerreichtes Potenzial f\u00fcr das Recycling von strategisch wichtigen Metallen aus Elektroschrott.</p><p><strong>Hintergrund: Biohydrometallurgische Forschung an der TU Freiberg</strong></p><p>Biohydrometallurgische Verfahren gelten als Alternative zu pyrometallurgischen Verfahren. Die Freiberger Biohydrometallurgen behandeln die Erze mit bestimmten Bakterien und bringen so die enthaltenen Metalle in L\u00f6sung (sogenannte Laugung). Aus der w\u00e4ssrigen L\u00f6sung werden die Metalle dann durch organische Molek\u00fcle herausgeholt (sogenannte Solvent-Extraktion) und schlie\u00dflich durch Elektrowinning auf einer Kathode als Element abgeschieden. Ein biohydrometallurgisches Verfahren ist typischerweise auf die extrem schwer l\u00f6slichen Metallsulfide ausgerichtet, die durch Mikroorganismen zu den entsprechenden gut l\u00f6slichen Sulfaten oxidiert werden. 10 bis 15 Prozent des Kupfers weltweit werden heute bereits auf diese Weise gewonnen. An der TU Bergakademie Freiberg erproben die Wissenschaftler/innen seit 2013 als einziges Forschungsteam an einer deutschen Universit\u00e4t die biohydrometallurgische Prozesskette insbesondere am Beispiel der Elemente Indium und Zink aus der Lagerst\u00e4tte P\u00f6hla im Erzgebirge, aber auch in der Reichen Zeche in Freiberg. Die daf\u00fcr notwendige Versuchsanlage steht in den Freiberger Laboren und wurde von der Dr.-Erich-Kr\u00fcger-Stiftung im Rahmen des Freiberger Biohydrometallurgischen Zentrums gef\u00f6rdert.</p>"
+        },
+        "id": "41566",
+        "guidislink": false,
+        "published": "Thu, 01 Oct 2020 14:36:29 +0200",
+        "published_parsed": [
+            2020,
+            10,
+            1,
+            12,
+            36,
+            29,
+            3,
+            275,
+            0
+        ],
+        "source": {
+            "href": "https://tu-freiberg.de/presse/pressemitteilungen.xml",
+            "title": "Aktuelle Meldungen | TU Bergakademie Freiberg"
+        }
+    },
+    "Muks": {
+        "title": "Modern Age [Name Redacted]",
+        "title_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://mukundyedunuthala.gitlab.io/feed.xml",
+            "value": "Modern Age [Name Redacted]"
+        },
+        "links": [
+            {
+                "href": "https://mukundyedunuthala.gitlab.io/2018/08/29/modern-age-redacted.html",
+                "rel": "alternate",
+                "type": "text/html",
+                "title": "Modern Age [Name Redacted]"
+            }
+        ],
+        "link": "https://mukundyedunuthala.gitlab.io/2018/08/29/modern-age-redacted.html",
+        "published": "2018-08-29T00:00:00+00:00",
+        "published_parsed": [
+            2018,
+            8,
+            29,
+            0,
+            0,
+            0,
+            2,
+            241,
+            0
+        ],
+        "updated": "2018-08-29T00:00:00+00:00",
+        "updated_parsed": [
+            2018,
+            8,
+            29,
+            0,
+            0,
+            0,
+            2,
+            241,
+            0
+        ],
+        "id": "https://mukundyedunuthala.gitlab.io/2018/08/29/modern-age-redacted",
+        "guidislink": false,
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "https://mukundyedunuthala.gitlab.io/2018/08/29/modern-age-redacted.html",
+                "value": "<p><em>\"Weekends tirigesi taagi padipothe epiphanies raavu,\" </em>the note on his wall sighed. It has really been one of those frustrating evenings, those roads never seemed to be pothole-free, and enduring a back-breaking bus ride every single day does not help. The last thing he needed now is some 'concerned' friend reminding him that he has a drinking problem. \"Yes, I can see that. As it turns out, I'm not impervious to such changes,\" he muttered under his breath while he furiously shot that friend down on Facebook.</p>\n<p>Fortunately, a frantic buzzing from his phone interrupted his tirade. The sight of the name Phalgun flashing on its screen meant only one thing, he knew he was in for a long talk.</p>\n<p>\"Hey, girl. What can I do for you?\" Arjun panted.</p>\n<p>\"You dumbass, you texted me again last night. Will you ever learn? Take me with you next time, I have new ideas on how to keep you away from your phone,\" Phalgun retorted. <em>Okay... But what did I even text? </em>\"Hey, it's okay, I promise that it is the last time,\" he replied, and instantly received a shower of abuses in return. Obviously, it wasn't the first time he pulled that little stunt off. Time flew by and he realized he has work to do in order to catch some deadlines. <em>Here goes nothing.</em></p>\n<p>The day always seemed to end with his frantic rush to catch the deadlines. Arjun couldn't remember the last time he sat on a chair and relaxed. <em>Really? THAT can't be the last time! </em>Nor could he remember the last time he saw someone else's pet. Sure, they all hangout at some random place every weekend. But, somehow, their houses were very distant. As Arjun walked to get coffee to calm his nerves, he couldn't help but take a glance at his favorite quote hung on the wall. \"Everybody loves you, but nobody likes you,\" it read. He chuckled at the thought how his last date said \"Isn't that from the show that nobody over sixteen would watch?\" He didn't bother to return her messages.</p>\n<p>Working for a start-up is never easy, they stood at the brink of a collapse. But now, Arjun is in line for a promotion. The office's chatter channels rarely go wrong on such lucrative info. <em>But at what cost? </em>While it was true that a promotion wouldn't excite him into working more, he knew he picked right path after getting out of that hellhole of  a college. <em>Maybe I do deserve a raise for making it this far. </em></p>\n<p>\"Hey Arjun! Come on man, check this blot out,\" Yudh said.</p>\n<p>\"WHERE did you get those?\"</p>\n<p>\"The usual, but imported,\" he winked.</p>\n<p>\"That has to be the real deal, let me try that tonight.\"</p>\n<p>Arjun, excited today because he has a new thing to do, reached home in good spirits. He wasted no time in locking his door away and keeping a \"barf bin,\" and food and water ready beside his bed. Seconds later, the bitterness hit his tongue, with it hit a power outage.</p>\n<p><em>God, you had to kill power right now. You ungrateful prick. Actually, I'm an ungrateful prick. Maybe I should just die and end it, man. Hey God da asshole, where art thou? I don't deserve to live... </em></p>\n<p>A couple of seconds later.</p>\n<p><em>Yes, you do. Because, you are not real. You are a figment of my imagination, Arjun. I'm your Krishna. But, this time, I don't stop at going on a long monologue. I take matters into my own hands, because that, my friend, is what I am best at. I'm not going to stop being your charioteer, I created you, I can create your path as well. But, what is the fun in that. Let me destroy. I can destroy you with a snap of my fingers, but I took the long way out. One by one, your willpower, strength, intelligence, everything will gradually erode away until you reach a point of extreme helplessness and only then shall you join me. </em></p>\n<p><em>A long game of patience, something that you lack. Which is, again, part of my plan. Free will is an illusion, not because of me. You do that to yourself. You want to believe something, or buy something, or fuck someone only because you brainwashed yourself about the importance of such things. I gave you free will, and you chose to do all things above on your own. But, my friend, there is one thing you can and will not do. That is end your life, because that, I reiterate, is in my jurisdiction. Peace out. </em></p>\n<p> </p>\n<p>Later, Arjun learnt that there was no power outage after all.</p>\n<p><em>Originally posted on a personal <a href=\"https://thoorpugermanykurradu.wordpress.com/2018/08/29/modern-age-name-redacted/\">blog</a> powered by WordPress</em></p>"
+            },
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "https://mukundyedunuthala.gitlab.io/feed.xml",
+                "value": "\"Weekends tirigesi taagi padipothe epiphanies raavu,\" the note on his wall sighed. It has really been one of those frustrating evenings, those roads never seemed to be pothole-free, and enduring a back-breaking bus ride every single day does not help. The last thing he needed now is some 'concerned' friend reminding him that he has a drinking problem. \"Yes, I can see that. As it turns out, I'm not impervious to such changes,\" he muttered under his breath while he furiously shot that friend down on Facebook. Fortunately, a frantic buzzing from his phone interrupted his tirade. The sight of the name Phalgun flashing on its screen meant only one thing, he knew he was in for a long talk. \"Hey, girl. What can I do for you?\" Arjun panted. \"You dumbass, you texted me again last night. Will you ever learn? Take me with you next time, I have new ideas on how to keep you away from your phone,\" Phalgun retorted. Okay... But what did I even text? \"Hey, it's okay, I promise that it is the last time,\" he replied, and instantly received a shower of abuses in return. Obviously, it wasn't the first time he pulled that little stunt off. Time flew by and he realized he has work to do in order to catch some deadlines. Here goes nothing. The day always seemed to end with his frantic rush to catch the deadlines. Arjun couldn't remember the last time he sat on a chair and relaxed. Really? THAT can't be the last time! Nor could he remember the last time he saw someone else's pet. Sure, they all hangout at some random place every weekend. But, somehow, their houses were very distant. As Arjun walked to get coffee to calm his nerves, he couldn't help but take a glance at his favorite quote hung on the wall. \"Everybody loves you, but nobody likes you,\" it read. He chuckled at the thought how his last date said \"Isn't that from the show that nobody over sixteen would watch?\" He didn't bother to return her messages. Working for a start-up is never easy, they stood at the brink of a collapse. But now, Arjun is in line for a promotion. The office's chatter channels rarely go wrong on such lucrative info. But at what cost? While it was true that a promotion wouldn't excite him into working more, he knew he picked right path after getting out of that hellhole of a college. Maybe I do deserve a raise for making it this far. \"Hey Arjun! Come on man, check this blot out,\" Yudh said. \"WHERE did you get those?\" \"The usual, but imported,\" he winked. \"That has to be the real deal, let me try that tonight.\" Arjun, excited today because he has a new thing to do, reached home in good spirits. He wasted no time in locking his door away and keeping a \"barf bin,\" and food and water ready beside his bed. Seconds later, the bitterness hit his tongue, with it hit a power outage. God, you had to kill power right now. You ungrateful prick. Actually, I'm an ungrateful prick. Maybe I should just die and end it, man. Hey God da asshole, where art thou? I don't deserve to live... A couple of seconds later. Yes, you do. Because, you are not real. You are a figment of my imagination, Arjun. I'm your Krishna. But, this time, I don't stop at going on a long monologue. I take matters into my own hands, because that, my friend, is what I am best at. I'm not going to stop being your charioteer, I created you, I can create your path as well. But, what is the fun in that. Let me destroy. I can destroy you with a snap of my fingers, but I took the long way out. One by one, your willpower, strength, intelligence, everything will gradually erode away until you reach a point of extreme helplessness and only then shall you join me. A long game of patience, something that you lack. Which is, again, part of my plan. Free will is an illusion, not because of me. You do that to yourself. You want to believe something, or buy something, or fuck someone only because you brainwashed yourself about the importance of such things. I gave you free will, and you chose to do all things above on your own. But, my friend, there is one thing you can and will not do. That is end your life, because that, I reiterate, is in my jurisdiction. Peace out. Later, Arjun learnt that there was no power outage after all. Originally posted on a personal blog powered by WordPress"
+            }
+        ],
+        "summary": "<p><em>\"Weekends tirigesi taagi padipothe epiphanies raavu,\" </em>the note on his wall sighed. It has really been one of those frustrating evenings, those roads never seemed to be pothole-free, and enduring a back-breaking bus ride every single day does not help. The last thing he needed now is some 'concerned' friend reminding him that he has a drinking problem. \"Yes, I can see that. As it turns out, I'm not impervious to such changes,\" he muttered under his breath while he furiously shot that friend down on Facebook.</p>\n<p>Fortunately, a frantic buzzing from his phone interrupted his tirade. The sight of the name Phalgun flashing on its screen meant only one thing, he knew he was in for a long talk.</p>\n<p>\"Hey, girl. What can I do for you?\" Arjun panted.</p>\n<p>\"You dumbass, you texted me again last night. Will you ever learn? Take me with you next time, I have new ideas on how to keep you away from your phone,\" Phalgun retorted. <em>Okay... But what did I even text? </em>\"Hey, it's okay, I promise that it is the last time,\" he replied, and instantly received a shower of abuses in return. Obviously, it wasn't the first time he pulled that little stunt off. Time flew by and he realized he has work to do in order to catch some deadlines. <em>Here goes nothing.</em></p>\n<p>The day always seemed to end with his frantic rush to catch the deadlines. Arjun couldn't remember the last time he sat on a chair and relaxed. <em>Really? THAT can't be the last time! </em>Nor could he remember the last time he saw someone else's pet. Sure, they all hangout at some random place every weekend. But, somehow, their houses were very distant. As Arjun walked to get coffee to calm his nerves, he couldn't help but take a glance at his favorite quote hung on the wall. \"Everybody loves you, but nobody likes you,\" it read. He chuckled at the thought how his last date said \"Isn't that from the show that nobody over sixteen would watch?\" He didn't bother to return her messages.</p>\n<p>Working for a start-up is never easy, they stood at the brink of a collapse. But now, Arjun is in line for a promotion. The office's chatter channels rarely go wrong on such lucrative info. <em>But at what cost? </em>While it was true that a promotion wouldn't excite him into working more, he knew he picked right path after getting out of that hellhole of  a college. <em>Maybe I do deserve a raise for making it this far. </em></p>\n<p>\"Hey Arjun! Come on man, check this blot out,\" Yudh said.</p>\n<p>\"WHERE did you get those?\"</p>\n<p>\"The usual, but imported,\" he winked.</p>\n<p>\"That has to be the real deal, let me try that tonight.\"</p>\n<p>Arjun, excited today because he has a new thing to do, reached home in good spirits. He wasted no time in locking his door away and keeping a \"barf bin,\" and food and water ready beside his bed. Seconds later, the bitterness hit his tongue, with it hit a power outage.</p>\n<p><em>God, you had to kill power right now. You ungrateful prick. Actually, I'm an ungrateful prick. Maybe I should just die and end it, man. Hey God da asshole, where art thou? I don't deserve to live... </em></p>\n<p>A couple of seconds later.</p>\n<p><em>Yes, you do. Because, you are not real. You are a figment of my imagination, Arjun. I'm your Krishna. But, this time, I don't stop at going on a long monologue. I take matters into my own hands, because that, my friend, is what I am best at. I'm not going to stop being your charioteer, I created you, I can create your path as well. But, what is the fun in that. Let me destroy. I can destroy you with a snap of my fingers, but I took the long way out. One by one, your willpower, strength, intelligence, everything will gradually erode away until you reach a point of extreme helplessness and only then shall you join me. </em></p>\n<p><em>A long game of patience, something that you lack. Which is, again, part of my plan. Free will is an illusion, not because of me. You do that to yourself. You want to believe something, or buy something, or fuck someone only because you brainwashed yourself about the importance of such things. I gave you free will, and you chose to do all things above on your own. But, my friend, there is one thing you can and will not do. That is end your life, because that, I reiterate, is in my jurisdiction. Peace out. </em></p>\n<p> </p>\n<p>Later, Arjun learnt that there was no power outage after all.</p>\n<p><em>Originally posted on a personal <a href=\"https://thoorpugermanykurradu.wordpress.com/2018/08/29/modern-age-name-redacted/\">blog</a> powered by WordPress</em></p>",
+        "authors": [
+            {
+                "name": "Mukund"
+            }
+        ],
+        "author_detail": {
+            "name": "Mukund"
+        },
+        "author": "Mukund"
+    }
+}
